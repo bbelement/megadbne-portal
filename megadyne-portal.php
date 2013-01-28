@@ -30,8 +30,6 @@ font-size:18px;
 
 <p>I added this to test github</p>
 
-<p>I added this to test github unsdo fetures</p>
-
 
 </div>
 
